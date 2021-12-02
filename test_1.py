@@ -103,5 +103,5 @@ def create_database(red):
 
 if __name__ == '__main__':
     red = database_init()
-    create_database(red)
+    # create_database(red)
     display_database(red)
